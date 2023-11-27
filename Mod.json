@@ -1,0 +1,56 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://cdn.discordapp.com/attachments/1126283510626394152/1151636779393351730/pta_negra_logo.png?ex=6570ed54&is=655e7854&hm=0fe06402953604dcbce69545f1283b3b377e5e6d704b116d6a11b7c2300c8b51&",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Normas",
+                    "title1": "Normas de Pata Negra",
+                    "text1": "Normas Generales\n\nRespeto y Cordialidad: Queda terminantemente prohibido el uso de lenguaje ofensivo o comentarios racistas. Todos los jugadores deben mantener un ambiente respetuoso entre sí.\n\nComportamiento PVP: No se permiten acciones de jugador contra jugador (PVP) que incluyan robo de dinosaurios, huevos, manipulación genética de dinos sin permiso, atacar a un jugador con intenciones letales, ahogar a alguien para robar, colarse en jefes de incursiones, robar el botín de un jefe, o saquear otras bases.\n\nUso de Glitchs o Bugs: Está estrictamente prohibido aprovecharse de glitches o bugs del juego para obtener ventajas injustas.\n\nTrato con Dinosaurios: Queda prohibido arrojar dinos salvajes a las bases y tomar dinos de otras bases para abandonarlos en cualquier lugar del mapa.\n\nDinos en Modo Agresivo: No dejes dinosaurios en modo agresivo que puedan interferir con el tameo de otros jugadores.\n\nResponsabilidad Administrativa: Los administradores no asumen responsabilidad por la pérdida de dinosaurios, objetos o estructuras debido a cambios en tribus, caídas del servidor o errores del juego.\n\nEliminación de Dinos Olvidados: Los jugadores deben evitar dejar dinosaurios olvidados en puertas, bases o en cualquier parte del mapa. En caso de quejas o molestias, estos serán eliminados sin previo aviso y sin posibilidad de recuperación.\n\nRestricciones a Jugadores Nuevos: No está permitido llevar a jugadores nuevos a enfrentar jefes o ascensiones, ni regalar o fabricar objetos desbloqueados por jefes a jugadores que no hayan aprendido los engramas correspondientes.\n\nClonación de Animales de Donación: Queda estrictamente prohibido clonar animales obtenidos a través de donaciones. La clonación de dinosaurios adquiridos mediante donaciones será considerada una violación grave de las normas y puede resultar en la expulsión inmediata del clan, sin posibilidad de apelación. El respeto a las contribuciones de otros jugadores es fundamental para mantener un ambiente justo y equitativo en el servidor.\n\nCryo El uso de Cryo es una decisión personal y la administración no se hace responsable de la pérdida de animales debido a este método. Aunque confían en que no ocurran problemas, no asumen responsabilidad por los resultados y consideran que es una elección individual decidir si utilizarla o no.\n\nDonacion Está estrictamente prohibido criar animales obtenidos mediante donaciones.\n\nNormas de Construcción Generales\n\nPreservación de Recursos Importantes: Queda prohibida la construcción en áreas críticas del mapa, como grandes depósitos de metal, petróleo, cristal, obsidiana, y cuevas con artefactos. Además, está terminantemente prohibido bloquear el acceso a estas zonas.\n\nRestricciones en Obeliscos: No se permite construir en los obeliscos, incluyendo la colocación de armarios.\n\nLimitación de Bases: Cada jugador no debe tener más de 3 bases por mapa, y se define una base como una construcción igual o mayor a un tamaño de 2x2. Además, se prohíben las bases o estructuras abandonadas.\n\nDelimitación de Terreno: La extensión de terreno para la base debe ser proporcionada y acorde a la construcción. Se tomarán medidas en casos de excesiva apropiación de terreno o inactividad.\n\nProhibición de SPAM de Estructuras: Queda estrictamente prohibido realizar SPAM de estructuras alrededor de las bases o en el mapa con la intención de bloquear la construcción para otros jugadores.\n\nRespeto a Otras Bases: No construir cerca de otras bases para preservar la privacidad y espacio de juego de cada jugador.\n\nRecogida de Estructuras: Es obligatorio recoger las estructuras de tameo y trampas una vez utilizadas para evitar la saturación del mapa.\n\nExtractores Desbloqueados: Los extractores de aceite y bolas de gas deben permanecer siempre desbloqueados y accesibles.\n\nIntegridad de Terminales y Nodos: No está permitido cerrar terminales, nodos, notas de explorador ni drops.\n\nEvitar Bloqueos y Ventajas Injustas: No construir estructuras alrededor de drops con el objetivo de bloquear o tomar ventaja sobre otros jugadores.\n\nDemolición Justa: No cerrar estructuras o escudos alrededor de bases o dinosaurios con contador de demolición para evitar reclamaciones.\n\nLibre Acceso y Caminos: No se deben cerrar ni bloquear caminos ni accesos en el mapa.\n\nUso Restringido de Cámaras de Vigilancia: Las cámaras de vigilancia solo se pueden colocar dentro de la propia base.\n\nRestricciones en Bases de Gachas: Queda prohibido montar bases de gachas cerca de entradas de cuevas o en zonas de farmeo. Si la base es visible desde áreas de farmeo o entradas de cuevas, se eliminará sin previo aviso.\n\nEstas normas son esenciales para garantizar una experiencia de juego justa y equitativa para todos los jugadores en el servidor. El incumplimiento de estas normas puede resultar en sanciones, incluyendo la eliminación de estructuras o la expulsión del servidor. ¡Jueguen de manera responsable y respetuosa!",
+                    "imageurl": "https://cdn.discordapp.com/attachments/1126283510626394152/1151636779393351730/pta_negra_logo.png?ex=6570ed54&is=655e7854&hm=0fe06402953604dcbce69545f1283b3b377e5e6d704b116d6a11b7c2300c8b51&"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Eventos",
+                    "title1": "Informacion de eventos:",
+                    "text1": "Proximamente...",
+                    "imageurl": "https://cdn.discordapp.com/attachments/1126283510626394152/1151636779393351730/pta_negra_logo.png?ex=6570ed54&is=655e7854&hm=0fe06402953604dcbce69545f1283b3b377e5e6d704b116d6a11b7c2300c8b51&"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/m8e5zGskvU"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Paypal",
+                    "url": " https://www.paypal.com/paypalme/Javicabecilla"
+                }
+            },
+            {
+                "link3": {
+                    "text": "🧾info-server🧾",
+                    "url": "https://discord.com/channels/509526632818671640/1173213350835011584"
+                }
+            }
+        ]
+    }
+}
