@@ -27,7 +27,7 @@
                     "layout": 1,
                     "buttontext": "Eventos",
                     "title1": "Información de eventos:",
-                    "text1": "más instrucciones próximamente.", 
+                    "text1": "más instrucciones próximamente.",
                     "imageurl": "https://i.imgur.com/LBBgYZ1.png"
                 }
             },
@@ -67,7 +67,5 @@
                 }
             }
         ]
-    }
-}
     }
 }
